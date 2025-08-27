@@ -30,7 +30,7 @@ export const portfolioData = {
         "Built and trained a Convolutional Neural Network (CNN) achieving 97% accuracy on the MNIST dataset.",
         "Developed an interactive web application with Streamlit that supports real-time digit sketching and image uploads for immediate inference."
       ],
-      githubLink: "https://github.com/your-username/digit-recognition",
+      githubLink: "https://github.com/YashMoney/Handwritten-digit-recognition",
     },
     {
       title: "Sentiment Analyzer",
@@ -40,7 +40,7 @@ export const portfolioData = {
         "Engineered a robust sentiment classification system for the IMDB 50K Reviews dataset, covering the entire pipeline from preprocessing to deployment.",
         "Integrated the YouTube Data API to analyze over 10K live comments, providing real-time sentiment insights through an interactive dashboard."
       ],
-      githubLink: "https://github.com/your-username/sentiment-analyzer",
+      githubLink: "https://github.com/YashMoney/Sentiment_Analysis",
     },
     {
       title: "Sign Language Recognition System",
@@ -50,7 +50,7 @@ export const portfolioData = {
         "Developed a real-time American Sign Language (ASL) alphabet recognition system using a stacked LSTM model.",
         "Created a custom data collection pipeline with MediaPipe for 3D hand landmark extraction, achieving 89% accuracy on live gesture recognition."
       ],
-      githubLink: "https://github.com/your-username/sign-language-recognition",
+      githubLink: "https://github.com/YashMoney/Sign-Language-Recognition-System",
     },
   ],
   skills: {
